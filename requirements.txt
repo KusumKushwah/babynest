@@ -1,0 +1,7 @@
+tensorflow
+numpy
+opencv-python
+pushbullet.py
+matplotlib
+seaborn
+scikit-learn

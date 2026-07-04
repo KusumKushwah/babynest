@@ -1,0 +1,21 @@
+# Secrets - never commit these
+.env
+*.token
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model weights (usually too large for GitHub, add a download link in README instead)
+*.keras
+*.h5
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
